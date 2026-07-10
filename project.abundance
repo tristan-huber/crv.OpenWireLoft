@@ -71,6 +71,11 @@
       "ap2ID": "id-3830"
     },
     {
+      "ap2Name": "wires",
+      "ap1ID": "id-3836",
+      "ap2ID": "id-3832"
+    },
+    {
       "ap2Name": "thickness",
       "ap1ID": "id-3839",
       "ap2ID": "id-3832"
