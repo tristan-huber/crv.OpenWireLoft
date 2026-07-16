@@ -30,17 +30,17 @@
     },
     {
       "atomType": "Code",
-      "x": 0.41861979166666663,
-      "y": 0.5416666666666666,
+      "x": 0.4173177083333333,
+      "y": 0.5223274695534507,
       "uniqueID": "id-3832",
       "ioValues": [
         {
-          "name": "thickness",
-          "ioValue": 10
-        },
-        {
           "name": "wires",
           "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "thickness",
+          "ioValue": 10
         }
       ],
       "interpreterVersion": 1,
@@ -49,16 +49,16 @@
     },
     {
       "atomType": "Input",
-      "x": 0.025384615384615384,
-      "y": 0.15384615384615385,
+      "x": 0.0231,
+      "y": 0.14,
       "uniqueID": "id-3836",
       "name": "Wires",
       "type": "geometry"
     },
     {
       "atomType": "Input",
-      "x": 0.025384615384615384,
-      "y": 0.24615384615384617,
+      "x": 0.0231,
+      "y": 0.22400000000000003,
       "uniqueID": "id-3839",
       "name": "Thickness",
       "type": "number"
